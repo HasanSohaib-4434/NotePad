@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\DS\finalDSDS\finalDSDS\Source.cpp(377,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DS\finalDSDS\finalDSDS\Source.cpp(146): warning C4715: 'suggestTheword': not all control paths return a value
+  finalDSDS.vcxproj -> D:\DS\finalDSDS\x64\Debug\finalDSDS.exe
